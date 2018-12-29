@@ -15,4 +15,4 @@
 ### - **Fare**: Fare paid by the passenger
 ### - **Cabin** Cabin number of the passenger (Some entries contain `NaN`)
 ### - **Embarked**: Port of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton)
-[Check out the code here](https://github.com/Akashgayakwad/Data-Analysis/blob/master/titanic/titanic.ipynb)
+Check out the code [here](https://github.com/Akashgayakwad/Data-Analysis/blob/master/titanic/titanic.ipynb)
